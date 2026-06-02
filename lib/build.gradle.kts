@@ -112,7 +112,7 @@ kotlin {
             dependencies {
 
                 implementation(dependencyNotation = "org.jetbrains.kotlinx:kotlinx-serialization-json:1.11.0")
-                implementation(dependencyNotation = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
+                implementation(dependencyNotation = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.11.0")
                 implementation(
                     dependencyNotation = project.dependencies.platform(
 
